@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/Escenas/
+brotato_presskit/
+*.mp4
+*.mov
